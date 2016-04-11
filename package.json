@@ -1,6 +1,7 @@
 {
   "author":"Ting-y",
   "name": "dependencyModule",
+  "version": "1.0",
   "description": "This is a denpendency module to test node_module",
   "main": "denpendency.js"
 }
