@@ -3,5 +3,5 @@
   "name": "dependency-module",
   "version": "1.0.0",
   "description": "This is a denpendency module to test node_module",
-  "main": "denpendency.js"
+  "main": "dependency.js"
 }
